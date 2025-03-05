@@ -6,7 +6,7 @@ I'm a Software Developer and MMmMmmm that`s it.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-zozulia-61b653307/)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akillot/)
 
-(the shields above are clickable)
+[the shields above are clickable]
 
 ---
 
