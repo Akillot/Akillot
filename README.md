@@ -1,16 +1,6 @@
 # Hi there 👋
 
-I'm a passionate Software Developer focusing on backend development, mainly with Java and Spring.
-
-### 📚 What I'm working on:
-- Developing scalable backend systems with **Java** and **Spring Boot**.
-- Experimenting with **PostgreSQL** and **MySQL** for efficient data storage.
-- Learning about **system design** and **microservices** architecture.
-
-### 🔭 Currently learning:
-- **Kafka** for building real-time data pipelines.
-- **Docker** to improve containerization and deployment workflows.
-- Exploring **GraphQL** to enhance APIs.
+I'm a passionate Software Developer focusing on backend development, mainly with Python and Java, Spring.
 
 ### 🛠 Tech Stack
 
