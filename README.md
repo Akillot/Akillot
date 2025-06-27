@@ -14,8 +14,11 @@ I'm a passionate Software Developer focusing on backend development, mainly with
 
 ### 🛠 Tech Stack
 
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white)  
+
 **Backend:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)  
