@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a passionate Software Developer focusing on backend development, mainly with Python and Java, Spring.
+I'm a passionate Software Developer focusing on backend development, mainly with Java, Spring and Python.
 
 ### Tech Stack
 
