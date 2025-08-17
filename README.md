@@ -4,12 +4,19 @@ I'm a passionate Software Developer focusing on backend development, mainly with
 
 ### Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=yellow)  
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logoColor=000000)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FFFFFF?style=for-the-badge&logo=google-cloud&logoColor=000000)](https://cloud.google.com/)
 
-**Backend:**  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 ### GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akillot&show_icons=true&theme=classical)
+
