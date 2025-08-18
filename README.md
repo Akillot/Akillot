@@ -4,11 +4,11 @@ I'm a passionate Software Developer focusing on backend development, mainly with
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FFFFFF?style=for-the-badge&logo=google-cloud&logoColor=000000)](https://cloud.google.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=FFFFFF)](https://cloud.google.com/)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,4 +19,3 @@ I'm a passionate Software Developer focusing on backend development, mainly with
 
 ### GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akillot&show_icons=true&theme=classical)
-
