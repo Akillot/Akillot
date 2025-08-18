@@ -5,7 +5,7 @@ I'm a passionate Software Developer focusing on backend development, mainly with
 ### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&&logoColor=FFFFFF)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=FFFFFF)](https://cloud.google.com/)
