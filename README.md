@@ -16,8 +16,3 @@ I'm a passionate Software Developer focusing on backend development, mainly with
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-### GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akillot&show_icons=true&theme=classical)
