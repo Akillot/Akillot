@@ -1,4 +1,4 @@
-**Founder @ [Monalar](https://monalar.com) &middot; Building the financial intelligence**
+**Founder @ [Monalar Systems](https://monalar.com) &middot; Building the financial intelligence**
 
 <br>
 
