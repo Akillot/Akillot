@@ -11,7 +11,7 @@
 
 ---
 
-## AI Deep Dive
+## Prompts
 
 Want a fast technical overview of this ecosystem, architecture and projects? Don't parse repositories manually. Copy one of the prompts below into Claude, ChatGPT, or Gemini to instantly initialize the engineering context.
 
